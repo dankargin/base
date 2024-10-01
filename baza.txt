@@ -1,0 +1,33 @@
+1
+Chelsea FC
+Didier
+Drogba
+41
+Forward
+1
+2014
+2
+Lokomotiv FC
+Dmitry
+Loskov
+41
+Midfielder
+2
+No
+3
+Man utd
+Wayne
+Rooney
+34
+Forward
+1
+2010
+4
+Chelsea FC
+Frank
+Lampard
+43
+Midfielder
+1
+2012
+-1
